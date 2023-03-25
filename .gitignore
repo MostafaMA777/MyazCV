@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+Ppe/__pycache__
+Ppe/best.pt
+Ppe/*.mp4
+venv/
+videos/
+.env
